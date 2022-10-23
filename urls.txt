@@ -1,4 +1,4 @@
-Public Url to GitHub repository (not private)  
+Public Url to GitHub repository   
 https://github.com/shadynxt/CICD_project
 
 Public URL for your S3 Bucket (aka, your green candidate front-end) [URL02] Screenshoot
