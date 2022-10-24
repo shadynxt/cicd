@@ -1,11 +1,11 @@
 Public Url to GitHub repository   
-https://github.com/shadynxt/CICD_project
+https://github.com/shadynxt/cicd
 
 Public URL for your S3 Bucket (aka, your green candidate front-end) [URL02] Screenshoot
 http://udapeople-4f8348d.s3-website-us-east-1.amazonaws.com
 
 Evidence of deployed and functioning Frontend in CloudFront. [URL03] Screenshot
-http://d1bcld197avat7.cloudfront.net	
+http://d1bcld197avat7.cloudfront.net
 
 Backend server
 http://54.166.77.165:3030/api/status [URL04] Screenshot
